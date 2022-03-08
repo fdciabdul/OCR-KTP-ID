@@ -348,7 +348,7 @@
     "unbzip2-stream": "^1.4.3",
     "unpipe": "^1.0.0",
     "url-to-options": "^1.0.1",
-    "util": "^0.10.4",
+    "util": "^0.12.0",
     "url-parse-lax": "^1.0.0",
     "util-deprecate": "^1.0.2",
     "utils-merge": "^1.0.1",
