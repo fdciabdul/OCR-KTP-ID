@@ -24,5 +24,5 @@ Then open [http://localhost:8000/](http://localhost:8000/)
 
 | Url        | Params           | Type |
 | ------------- |:-------------:| :-----:| 
-| /api/recognition/image | images | Files | 
+| /api/api/ocr | images | Files | 
 
