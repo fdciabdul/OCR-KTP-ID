@@ -248,7 +248,7 @@
     "path-key": "^2.0.1",
     "path-is-absolute": "^1.0.1",
     "path-parse": "^1.0.7",
-    "path-to-regexp": "^0.1.7",
+    "path-to-regexp": "^0.2.0",
     "pend": "^1.2.0",
     "picocolors": "^1.0.0",
     "path-type": "^1.1.0",
