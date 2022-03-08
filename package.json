@@ -147,7 +147,7 @@
     "ieee754": "^1.2.1",
     "idb-keyval": "^3.2.0",
     "human-signals": "^1.1.1",
-    "iconv-lite": "^0.4.24",
+    "iconv-lite": "^0.6.0",
     "inflight": "^1.0.6",
     "import-lazy": "^3.1.0",
     "indent-string": "^2.1.0",
