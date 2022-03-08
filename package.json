@@ -231,7 +231,7 @@
     "once": "^1.4.0",
     "opencollective-postinstall": "^2.0.3",
     "os-filter-obj": "^2.0.0",
-    "p-cancelable": "^0.3.0",
+    "p-cancelable": "^0.5.0",
     "p-event": "^1.3.0",
     "p-finally": "^1.0.0",
     "p-is-promise": "^1.1.0",
