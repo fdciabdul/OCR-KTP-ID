@@ -25,7 +25,7 @@
     "bl": "^4.1.0",
     "bin-version-check": "^4.0.0",
     "body-parser": "^1.19.2",
-    "blueimp-load-image": "^3.0.0",
+    "blueimp-load-image": "^5.0.0",
     "bmp-js": "^0.1.0",
     "boolbase": "^1.0.0",
     "buffer": "^5.7.1",
