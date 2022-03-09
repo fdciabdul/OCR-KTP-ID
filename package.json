@@ -23,7 +23,7 @@
     "bin-wrapper": "^4.1.0",
     "bin-version": "^3.1.0",
     "bl": "^4.1.0",
-    "bin-version-check": "^4.0.0",
+    "bin-version-check": "^5.0.0",
     "body-parser": "^1.19.2",
     "blueimp-load-image": "^3.0.0",
     "bmp-js": "^0.1.0",
