@@ -58,7 +58,7 @@
     "console-stream": "^0.1.1",
     "content-disposition": "^0.5.4",
     "content-type": "^1.0.4",
-    "cookie": "^0.4.2",
+    "cookie": "^0.5.0",
     "cors": "^2.8.5",
     "cookie-session": "^2.0.0",
     "cookie-signature": "^1.0.6",
